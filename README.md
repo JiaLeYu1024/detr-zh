@@ -1,6 +1,3 @@
-
-123456789
-
 **DE⫶TR**: End-to-End Object Detection with Transformers
 ========
 
